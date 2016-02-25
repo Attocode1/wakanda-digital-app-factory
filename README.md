@@ -1,5 +1,7 @@
 # Wakanda Digital App Factory
 
+Current Version : v1.0.3
+
 - [Getting Started With Wakanda](http://wakanda.github.io/wakanda-studio)
 - [Community Documentation](http://doc.wakanda.org/)
 - [Wakanda Community Version](http://www.wakanda.org/)
