@@ -2,7 +2,7 @@
 
 Current Version : v1.0.3
 
-pre-release : v1.1.0
+pre-release : v1.1.0.b
 
 - [Getting Started With Wakanda](http://wakanda.github.io/wakanda-studio)
 - [Community Documentation](http://doc.wakanda.org/)
