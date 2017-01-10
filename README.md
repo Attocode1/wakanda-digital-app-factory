@@ -1,6 +1,6 @@
 # Wakanda Digital App Factory
 
-Current Version : v1.1.1
+Current Version : v1.1.3
 
 Current beta : v2.0.0.a
 
