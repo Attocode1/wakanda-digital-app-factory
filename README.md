@@ -2,7 +2,6 @@
 
 Current Version : v2.0.0
 
-- [Getting Started With Wakanda](http://wakanda.github.io/wakanda-studio)
 - [Tutorial](https://wakanda.github.io/doc/#/tutorial)
 - [Documentation](https://wakanda.github.io/doc/#/guide)
 - [API Reference](https://wakanda.github.io/api-reference/)
