@@ -1,8 +1,6 @@
 # Wakanda Digital App Factory
 
-Latest v2 package : v2.0.3
-
-Latest v2 Server : v2.1.0
+Latest v2 package : v2.1.0
 
 Latest v1 package : v1.1.5
 
